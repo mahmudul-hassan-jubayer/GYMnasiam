@@ -1,0 +1,985 @@
+@media (min-width: 320px) and (max-width: 575px) {
+    nav button i{
+        color: #ffffff;
+    }
+
+    nav .navbar-brand {
+        background: #333333;
+        transform: skew(-35deg);
+        padding: 0px 10px;
+        margin-left: 20px;
+    }
+
+    #banner-part .banner2 .overlay {
+        background: rgba(0, 0, 0, .60);
+        width: 100%;
+        height: 100%;
+        padding-top: 130px;
+        text-align: center;
+        padding-bottom: 90px;
+    }
+
+    #banner-part .banner2 .overlay .text h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .banner2 .overlay .text h1 {
+        font-size: 50px;
+    }
+
+    #banner-part .banner2 .overlay .text p {
+        font-size: 13px;
+        color: #dddddd;
+        font-family: 'Open Sans', sans-serif;
+        width: 295px;
+        margin: 0 auto;
+    }
+
+    #banner-part .banner2 .overlay .text .shape {
+        display: none;
+    }
+
+    #banner-part .banner2 .overlay .button {
+        display: inline-block;
+        margin-top: 60px;
+        margin-left: 10px;
+        transition: .4s;
+    }
+
+    /*=========About us Part start===========*/
+
+    #about-us {
+        margin-top: 40px;
+    }
+
+    #about-us .text p {
+        /*width: 298px;*/
+        font-size: 12px;
+        width: auto;
+    }
+
+    #about-us .text .second {
+        width: auto;
+    }
+
+    #about-us .video .videoPart .overlay .icon {
+        line-height: 11;
+    }
+
+    .tittle h4 {
+        margin-top: 20px;
+    }
+
+    /*=========About us Part end===========*/
+
+
+    /*=========Gallery Part start===========*/
+
+    #gallery-part {
+        margin-top: 20px;
+    }
+
+    /*=========Gallery Part end===========*/
+
+
+    /*=========team Part start===========*/
+
+    #team-part {
+        margin-top: 40px;
+    }
+
+    /*=========team Part end===========*/
+
+
+    /*=========testimonial Part start===========*/
+
+    #testimonial-part {
+        margin-top: 40px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .iteams {
+        display: inline-block;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .iteams .heading {
+        margin-left: 0px;
+    }
+
+    .h4, h4 {
+        font-size: 1.1rem;
+    }
+
+    .h5, h5 {
+        font-size: 1.0rem;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .img {
+        width: 70px;
+        height: 70px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam p {
+        width: auto;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam p {
+        font-size: 11px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider ul {
+        bottom: -50px;
+    }
+
+    #testimonial-part .testimonial .overlay {
+        padding-bottom: 60px;
+    }
+
+    /*=========testimonial Part end===========*/
+
+
+    /*=========membership Part start===========*/
+
+    #membership {
+        margin-top: 40px;
+    }
+
+    #membership .item .heading h5 {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+
+    #membership .item .img {
+        width: 100%;
+        height: 90px;
+    }
+
+    #membership .item .img .overlay h1 {
+        line-height: 2;
+    }
+
+    #membership .item .list ul {
+        padding: 10px 0;
+    }
+
+    #membership .item .bottom h5 {
+        font-size: 15px;
+        padding: 6px 0;
+    }
+
+    [data-aos^="fade"][data-aos^="fade"].aos-animate {
+        margin-top: 10px;
+    }
+
+    [data-aos^="zoom"][data-aos^="zoom"].aos-animate {
+        margin-top: 10px;
+    }
+
+    /*=========membership Part end===========*/
+
+
+    /*=========counter Part start===========*/
+
+    #counter-part {
+        margin-top: 40px;
+    }
+
+    #counter-part .overlay {
+        padding: 10px 0;
+    }
+
+    #counter-part .overlay .counterBox {
+         display: block;
+        text-align: center;
+    }
+
+    /*=========counter Part end===========*/
+
+
+    /*=========classes Part start===========*/
+
+    #classes-part {
+        margin-top: 40px;
+    }
+
+    #classes-part .day {
+         display: block;
+    }
+
+    #classes-part .box {
+        margin-top: 20px;
+         display: inline-block;
+        justify-content: space-between;
+    }
+
+    #classes-part .box .item {
+        padding: 10px;
+    }
+
+    /*=========classes Part end===========*/
+
+
+    /*==========company part start===========*/
+
+    #company-part {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    #company-part .previous {
+        left: -12px;
+    }
+
+    #company-part .next {
+        right: -12px;
+    }
+
+    /*==========company part end===========*/
+
+
+    /*=========footer Part start===========*/
+
+    #footer-part {
+        margin-top: 40px;
+    }
+
+    #footer-part .first-part .img {
+        padding: 0 0;
+    }
+
+    #footer-part .first-part .img::after {
+        top: 86px;
+    }
+
+    #footer-part .item4 .fine {
+        text-align: center;
+    }
+
+    #footer-part .middel::after {
+        bottom: 55px;
+    }
+
+    #footer-part .final-footer {
+        margin-top: 20px;
+    }
+
+    #footer-part .overlay {
+        text-align: center;
+    }
+
+    * {
+        margin: 0 auto;
+    }
+
+    #footer-part .middel .item2 .text p {
+        width: auto;
+    }
+
+
+    /*=========footer Part end===========*/
+
+
+    /*=========btop Part start===========*/
+
+    .btop {
+        padding: 10px;
+    }
+
+    .btop {
+        bottom: 10px;
+        right: 10px;
+    }
+
+    /*=========btop Part end===========*/
+
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    nav button i{
+        color: #ffffff;
+    }
+
+    nav .navbar-brand {
+        background: #333333;
+        transform: skew(-35deg);
+        padding: 0px 10px;
+        margin-left: 10px;
+        margin-top: -9px;
+    }
+
+    #banner-part .banner2 .overlay {
+        background: rgba(0, 0, 0, .60);
+        width: 100%;
+        height: 100%;
+        padding-top: 130px;
+        text-align: center;
+        padding-bottom: 70px;
+    }
+
+    #banner-part .banner2 .overlay .text h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .banner2 .overlay .text h1 {
+        font-size: 50px;
+    }
+
+    #banner-part .banner2 .overlay .text p {
+        font-size: 13px;
+        color: #dddddd;
+        font-family: 'Open Sans', sans-serif;
+        width: 295px;
+        margin: 20px auto;
+    }
+
+    #banner-part .banner2 .overlay .text .shape {
+        /*display: none;*/
+    }
+
+    #banner-part .banner2 .overlay .button {
+        display: inline-block;
+        margin-top: 60px;
+        margin-left: 10px;
+        transition: .4s;
+    }
+
+    /*=========About us Part start===========*/
+
+    #about-us {
+        margin-top: 40px;
+    }
+
+    #about-us .text p {
+        /*width: 298px;*/
+        font-size: 12px;
+        width: auto;
+    }
+
+    #about-us .text .second {
+        width: auto;
+    }
+
+    #about-us .video {
+        margin-top: 50%;
+    }
+
+    #about-us .video .videoPart .overlay .icon {
+        line-height: 11;
+    }
+
+    .tittle h4 {
+        margin-top: 20px;
+    }
+
+    /*=========About us Part end===========*/
+
+
+    /*=========Gallery Part start===========*/
+
+    #gallery-part {
+        margin-top: 20px;
+    }
+
+    /*=========Gallery Part end===========*/
+
+
+    /*=========team Part start===========*/
+
+    #team-part {
+        margin-top: 40px;
+    }
+
+    #team-part .iteam .text p {
+        text-align: center;
+         width: auto;
+         height: auto;
+        font-size: 8px;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 10px;
+        position: absolute;
+        bottom: 40px;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+
+    /*=========team Part end===========*/
+
+
+    /*=========testimonial Part start===========*/
+
+    #testimonial-part {
+        margin-top: 40px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .iteams {
+        display: inline-block;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .iteams .heading {
+        margin-left: 0px;
+    }
+
+    .h4, h4 {
+        font-size: 1.1rem;
+    }
+
+    .h5, h5 {
+        font-size: 1.0rem;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .img {
+        width: 70px;
+        height: 70px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam p {
+        width: auto;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam p {
+        font-size: 11px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider ul {
+        bottom: -50px;
+    }
+
+    #testimonial-part .testimonial .overlay {
+        padding-bottom: 60px;
+    }
+
+    /*=========testimonial Part end===========*/
+
+
+    /*=========membership Part start===========*/
+
+    #membership {
+        margin-top: 40px;
+    }
+
+    #membership .item .heading h5 {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+
+    #membership .item .img {
+        width: 100%;
+        height: 90px;
+    }
+
+    #membership .item .img .overlay h1 {
+        line-height: 2;
+    }
+
+    #membership .item .list ul {
+        padding: 10px 0;
+    }
+
+    #membership .item .list ul li {
+        margin-bottom: 5px;
+    }
+
+    #membership .item .bottom h5 {
+        font-size: 15px;
+        padding: 6px 0;
+    }
+
+    [data-aos^="fade"][data-aos^="fade"].aos-animate {
+        margin-top: 10px;
+    }
+
+    [data-aos^="zoom"][data-aos^="zoom"].aos-animate {
+        margin-top: 10px;
+    }
+
+    /*=========membership Part end===========*/
+
+
+    /*=========counter Part start===========*/
+
+    #counter-part {
+        margin-top: 40px;
+    }
+
+    #counter-part .overlay {
+        padding: 10px 0;
+    }
+
+    #counter-part .overlay .counterBox {
+        display: flex;
+        text-align: center;
+    }
+
+    /*=========counter Part end===========*/
+
+
+    /*=========classes Part start===========*/
+
+    #classes-part {
+        margin-top: 40px;
+    }
+
+    #classes-part .day {
+        display: block;
+    }
+
+    #classes-part .box {
+        margin-top: 20px;
+        display: inline-block;
+        justify-content: space-between;
+    }
+
+    #classes-part .box .item {
+        padding: 10px;
+    }
+
+    /*=========classes Part end===========*/
+
+
+    /*==========company part start===========*/
+
+    #company-part {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    #company-part .previous {
+        left: -12px;
+    }
+
+    #company-part .next {
+        right: -12px;
+    }
+
+    /*==========company part end===========*/
+
+
+    /*=========footer Part start===========*/
+
+    #footer-part {
+        margin-top: 40px;
+    }
+
+    #footer-part .first-part .img {
+        padding: 0 0;
+    }
+
+    #footer-part .middel .item3 .imgdiv {
+        margin-top: 30px;
+        flex-wrap: inherit;
+    }
+
+    #footer-part .first-part .img::after {
+        top: 86px;
+    }
+
+    ul, li {
+        text-align: left;
+    }
+
+    #footer-part .item4 .fine {
+        text-align: center;
+    }
+
+    #footer-part .middel .item4 .text-part {
+         display: block;
+    }
+
+    #footer-part .middel::after {
+        bottom: 55px;
+    }
+
+    #footer-part .final-footer {
+        margin-top: 20px;
+    }
+
+    #footer-part .overlay {
+        text-align: center;
+    }
+
+    * {
+        margin: 0 auto;
+    }
+
+    #footer-part .middel .item2 .text p {
+        width: auto;
+    }
+
+
+    /*=========footer Part end===========*/
+
+
+    /*=========btop Part start===========*/
+
+    .btop {
+        padding: 10px;
+    }
+
+    .btop {
+        bottom: 10px;
+        right: 10px;
+    }
+
+    /*=========btop Part end===========*/
+
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    nav button i{
+        color: #ffffff;
+    }
+
+    nav .navbar-brand {
+        background: #333333;
+        transform: skew(-35deg);
+        padding: 0px 10px;
+        margin-left: 10px;
+        margin-top: -9px;
+    }
+
+    #banner-part .banner2 .overlay {
+        background: rgba(0, 0, 0, .60);
+        width: 100%;
+        height: 100%;
+        padding-top: 130px;
+        text-align: center;
+        padding-bottom: 70px;
+    }
+
+    #banner-part .banner2 .overlay .text h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .banner2 .overlay .text h1 {
+        font-size: 50px;
+    }
+
+    #banner-part .banner2 .overlay .text p {
+        font-size: 13px;
+        color: #dddddd;
+        font-family: 'Open Sans', sans-serif;
+        width: 295px;
+        margin: 20px auto;
+    }
+
+    #banner-part .banner2 .overlay .text .shape {
+        /*display: none;*/
+    }
+
+    #banner-part .banner2 .overlay .button {
+        display: inline-block;
+        margin-top: 60px;
+        margin-left: 10px;
+        transition: .4s;
+    }
+
+    /*=========About us Part start===========*/
+
+    #about-us {
+        margin-top: 40px;
+    }
+
+    #about-us .text p {
+        /*width: 298px;*/
+        font-size: 12px;
+        width: auto;
+    }
+
+    #about-us .text .second {
+        width: auto;
+    }
+
+    #about-us .video {
+        margin-top: 33%;
+    }
+
+    #about-us .video .videoPart .overlay .icon {
+        line-height: 11;
+    }
+
+    .tittle h4 {
+        margin-top: 20px;
+    }
+
+    /*=========About us Part end===========*/
+
+
+    /*=========Gallery Part start===========*/
+
+    #gallery-part {
+        margin-top: 20px;
+    }
+
+    /*=========Gallery Part end===========*/
+
+
+    /*=========team Part start===========*/
+
+    #team-part {
+        margin-top: 40px;
+    }
+
+    #team-part .iteam .text p {
+        text-align: center;
+        width: auto;
+        height: auto;
+        font-size: 8px;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 10px;
+        position: absolute;
+        bottom: 40px;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+
+    /*=========team Part end===========*/
+
+
+    /*=========testimonial Part start===========*/
+
+    #testimonial-part {
+        margin-top: 40px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .iteams {
+        display: inline-block;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .iteams .heading {
+        margin-left: 0px;
+    }
+
+    .h4, h4 {
+        font-size: 1.1rem;
+    }
+
+    .h5, h5 {
+        font-size: 1.0rem;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam .img {
+        width: 70px;
+        height: 70px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam p {
+        width: auto;
+    }
+
+    #testimonial-part .testimonial .overlay .slider .slide .iteam p {
+        font-size: 11px;
+    }
+
+    #testimonial-part .testimonial .overlay .slider ul {
+        bottom: -50px;
+    }
+
+    #testimonial-part .testimonial .overlay {
+        padding-bottom: 60px;
+    }
+
+    /*=========testimonial Part end===========*/
+
+
+    /*=========membership Part start===========*/
+
+    #membership {
+        margin-top: 40px;
+    }
+
+    #membership .item .heading h5 {
+        font-size: 15px;
+        padding: 15px 0;
+    }
+
+    #membership .item .img {
+        width: 100%;
+        height: 90px;
+    }
+
+    #membership .item .img .overlay h1 {
+        line-height: 2;
+    }
+
+    #membership .item .list ul {
+        padding: 10px 0;
+    }
+
+    #membership .item .list ul li {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    #membership .item .bottom h5 {
+        font-size: 15px;
+        padding: 6px 0;
+    }
+
+    [data-aos^="fade"][data-aos^="fade"].aos-animate {
+        margin-top: 10px;
+    }
+
+    [data-aos^="zoom"][data-aos^="zoom"].aos-animate {
+        margin-top: 10px;
+    }
+
+    /*=========membership Part end===========*/
+
+
+    /*=========counter Part start===========*/
+
+    #counter-part {
+        margin-top: 40px;
+    }
+
+    #counter-part .overlay {
+        padding: 10px 0;
+    }
+
+    #counter-part .overlay .counterBox {
+        display: flex;
+        text-align: center;
+    }
+
+    /*=========counter Part end===========*/
+
+
+    /*=========classes Part start===========*/
+
+    #classes-part {
+        margin-top: 40px;
+    }
+
+    #classes-part .day {
+        display: flex;
+    }
+
+    #classes-part .box {
+        margin-top: 20px;
+        display: flex;
+        /*justify-content: space-between;*/
+    }
+
+    #classes-part .box .item {
+        padding: 10px;
+        margin: 4px auto;
+    }
+
+
+    /*=========classes Part end===========*/
+
+
+    /*==========company part start===========*/
+
+    #company-part {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    #company-part .previous {
+        left: -12px;
+    }
+
+    #company-part .next {
+        right: -12px;
+    }
+
+    /*==========company part end===========*/
+
+
+    /*=========footer Part start===========*/
+
+    #footer-part {
+        margin-top: 40px;
+    }
+
+    #footer-part .first-part .img {
+        padding: 0 0;
+    }
+
+    #footer-part .middel .item3 .imgdiv {
+        margin-top: 30px;
+        flex-wrap: inherit;
+    }
+
+    #footer-part .first-part .img::after {
+        top: 86px;
+    }
+
+    ul, li {
+        text-align: left;
+    }
+
+    #footer-part .item4 .fine {
+        text-align: center;
+    }
+
+    #footer-part .middel .item4 .text-part {
+        display: block;
+    }
+
+    #footer-part .middel::after {
+        bottom: 55px;
+    }
+
+    #footer-part .final-footer {
+        margin-top: 20px;
+    }
+
+    #footer-part .overlay {
+        text-align: center;
+    }
+
+    * {
+        margin: 0 auto;
+    }
+
+    #footer-part .middel .item2 .text p {
+        width: auto;
+    }
+
+
+    /*=========footer Part end===========*/
+
+
+    /*=========btop Part start===========*/
+
+    .btop {
+        padding: 10px;
+    }
+
+    .btop {
+        bottom: 10px;
+        right: 10px;
+    }
+
+    /*=========btop Part end===========*/
+
+}
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+    #team-part .iteam .text p {
+         width: auto;
+         height: auto;
+        bottom: -72px;
+    }
+
+    #membership .item .img {
+         width: 100%;
+    }
+
+}
